@@ -1,0 +1,6 @@
+{"cValue": 500,
+  "kernel": "polynomial",
+  "kernels": ["linear", "polynomial", "rbf"],
+  "pFactor": 2,
+  "sigma": 1.0
+}
